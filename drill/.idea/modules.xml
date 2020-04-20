@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/drill.iml" filepath="$PROJECT_DIR$/.idea/drill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drill-framework-common/drill-framework-common.iml" filepath="$PROJECT_DIR$/drill-framework-common/drill-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drill-framework-parent/drill-framework-parent.iml" filepath="$PROJECT_DIR$/drill-framework-parent/drill-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drill-microservice-edu/drill-microservice-edu.iml" filepath="$PROJECT_DIR$/drill-microservice-edu/drill-microservice-edu.iml" />
+    </modules>
+  </component>
+</project>
