@@ -38,8 +38,8 @@ logging:
     root: warn
 
 aliyun:
-  accessKeyId: LTAI4Ffi2WzH6wwC68up6gDH
-  accessKeySecret: pzIfTaAFhCTeGeKJLgJj3hfiYjAxgy
+  accessKeyId: 
+  accessKeySecret: 
   oss:
     endpoint: http://oss-cn-qingdao.aliyuncs.com
     bucketName: educationzz
